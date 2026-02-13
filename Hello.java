@@ -3,7 +3,9 @@ public class Hello {
        int a = 10 ;
        int b = 5;
        int addition = a+b;
+       int subtraction = a-b;
        System.out.println("addition =" + addition);
+       System.out.println("subtraction =" + subtraction);
     }
 }
 
